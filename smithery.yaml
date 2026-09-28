@@ -1,0 +1,6 @@
+name: genpark-async-event-loop-reactor-scheduler-skill
+version: 1.0.0
+description: Cooperative asynchronous event loop with microtask queues, timer heaps, Future/Task resolution, and task cancellation
+command: python
+args:
+  - mcp_server.py
