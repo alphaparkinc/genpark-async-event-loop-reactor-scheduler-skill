@@ -1,0 +1,20 @@
+{
+  "name": "genpark-async-event-loop-reactor-scheduler-skill",
+  "version": "1.0.0",
+  "description": "Cooperative asynchronous event loop with microtask queues, timer heaps, Future/Task resolution, and task cancellation",
+  "category": "Service",
+  "dependencies": [],
+  "topics": [
+    "mcp",
+    "async-event-loop",
+    "event-loop",
+    "task-scheduler",
+    "microtask-queue",
+    "concurrency",
+    "asynchronous-runtime",
+    "python-standard-library",
+    "agent-skills",
+    "futures-promises",
+    "cooperative-multitasking"
+  ]
+}
